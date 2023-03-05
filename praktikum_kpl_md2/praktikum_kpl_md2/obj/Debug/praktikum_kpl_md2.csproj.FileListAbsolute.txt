@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\praktikum_kpl_md2\praktikum_kpl_md2\bin\Debug\praktikum_kpl_md2.exe.config
+c:\users\user\documents\visual studio 2015\Projects\praktikum_kpl_md2\praktikum_kpl_md2\bin\Debug\praktikum_kpl_md2.exe
+c:\users\user\documents\visual studio 2015\Projects\praktikum_kpl_md2\praktikum_kpl_md2\bin\Debug\praktikum_kpl_md2.pdb
+c:\users\user\documents\visual studio 2015\Projects\praktikum_kpl_md2\praktikum_kpl_md2\obj\Debug\praktikum_kpl_md2.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\praktikum_kpl_md2\praktikum_kpl_md2\obj\Debug\praktikum_kpl_md2.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\praktikum_kpl_md2\praktikum_kpl_md2\obj\Debug\praktikum_kpl_md2.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\praktikum_kpl_md2\praktikum_kpl_md2\obj\Debug\praktikum_kpl_md2.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\praktikum_kpl_md2\praktikum_kpl_md2\obj\Debug\praktikum_kpl_md2.exe
+c:\users\user\documents\visual studio 2015\Projects\praktikum_kpl_md2\praktikum_kpl_md2\obj\Debug\praktikum_kpl_md2.pdb
